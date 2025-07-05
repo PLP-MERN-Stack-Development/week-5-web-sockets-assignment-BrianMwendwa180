@@ -55,20 +55,20 @@ Build a real-time chat application using Socket.io that demonstrates bidirection
 3. Install server dependencies:
    ```
    cd server
-   npm install
+   pnpm run dev
    ```
 4. Install client dependencies:
    ```
    cd client
-   npm install
+   pnpm install
    ```
 5. Start the development servers:
    ```
    # In the server directory
-   npm run dev
+   pnpm run dev
    
    # In the client directory
-   npm run dev
+   pnpm run dev
    ```
 
 ## ✅ Submission Instructions
